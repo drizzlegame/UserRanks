@@ -17,4 +17,5 @@ ranks = {
 {[RANK] = "1ST PRIVATE", [USERS] = "nil"},
 {[RANK] = "PRIVATE", [USERS] = "nil"},
 {[RANK] = "RECRUIT", [USERS] = "nil"},
+  
 }
